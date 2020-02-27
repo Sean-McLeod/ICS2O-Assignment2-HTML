@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  font-size:40px;
+}
+p {
+  color: black;
+}
+p {
+  font-size:30px;
+}
+h2 {
+  font-size:35px;
+  font-style:italic;
+}
+body {background-color:powderblue;
+}
+q {
+  font-style:inherit;
+}
